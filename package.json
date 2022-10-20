@@ -1,0 +1,24 @@
+{
+  "name": "note-taker-challenge",
+  "version": "1.0.0",
+  "description": "Express.js Challenge Note Taker. An application used for saving and retrieving notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ausbosspoland/Note-Taker-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ausbosspoland/Note-Taker-Challenge/issues"
+  },
+  "homepage": "https://github.com/ausbosspoland/Note-Taker-Challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
